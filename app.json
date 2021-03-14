@@ -66,11 +66,6 @@
       "value": "",
       "required": false
     }
-    "BOT_PASSWORD": {
-        "description": "enter pasword or leave it public",
-        "value": "",
-        "required" : false
-      }
   },
   "addons": [
   ],
